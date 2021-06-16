@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1602275348 source:c:\users\kevin\desktop\code\intentotp\tp2\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"employee.h"
+
+1602284195 c:\users\kevin\desktop\code\intentotp\tp2\employee.h
+
+1602284528 source:c:\users\kevin\desktop\code\intentotp\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"employee.h"
+
